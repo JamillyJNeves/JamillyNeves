@@ -1,38 +1,28 @@
-# Olá, eu sou Jamilly Neves 👋
+# Oi, eu sou a Jamilly! 👋
 
-### Analista de Sistemas | Entusiasta de Cybersecurity | Acadêmica de BSI na UFMT
+Sou Desenvolvedora e estudante de Sistemas de Informação na UFMT.
 
-Atualmente, atuo como **Analista de Sistemas**, focando na otimização de fluxos de dados e integridade de processos. Paralelamente, contribuo com a comunidade acadêmica como instrutora de desenvolvimento web no projeto **Conecta Jovem (IC-UFMT)**, disseminando fundamentos técnicos para novos talentos.
+### O que estou estudando e construindo no momento:
 
-Minha abordagem combina a praticidade da análise de sistemas com uma mentalidade voltada para a proteção de dados.
+*   **Mobile:** Criando aplicativos multiplataforma com **Flutter e Dart**.
+*   **Back-end & Dados:** Estruturando lógicas e bancos de dados relacionais com **PHP, Python e SQL**.
+*   **Cybersecurity:** Pesquisando segurança em Inteligência Artificial e como proteger sistemas contra deepfakes.
+*   **Web:** Mantendo a base forte com **JavaScript, HTML e CSS**.
 
 ---
 
-### Hard Skills
+###Minha stack principal
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### Cybersecurity Mindset
+### Como me encontrar
 
-Como entusiasta de segurança, não vejo o código apenas como funcionalidade, mas como um perímetro a ser protegido. 
-
-- **OWASP Top 10:** Aplico os princípios de segurança do OWASP em meus desenvolvimentos e análises, priorizando a mitigação de riscos desde a concepção do código.
-- **Data Integrity:** No meu dia a dia como Analista, foco em garantir que a informação seja processada de forma íntegra, segura e eficiente.
-- **Continuous Learning:** Explorando constantemente vulnerabilidades web e práticas de defesa ativa.
-
----
-
-### Contato
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](SEU_LINK_DO_LINKEDIN)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jamillyj-neves/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nevesjjamilly@gmail.com)
-
----
-*"A segurança é um processo, não um produto."*
