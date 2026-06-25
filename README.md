@@ -5,7 +5,7 @@ Sou Desenvolvedora e estudante de Sistemas de Informação na UFMT.
 O que estou estudando no momento:
 
 *   **Mobile:** Criando aplicativos multiplataforma com **Flutter e Dart**.
-*   **Back-end & Dados:** Estruturando lógicas e bancos de dados relacionais com **PHP, Python e SQL**.
+*   **Back-end & Dados:** Estruturando lógicas e bancos de dados relacionais com **PHP, Python, C e SQL**.
 *   **Cybersecurity:** Pesquisando segurança em Inteligência Artificial e como proteger sistemas contra deepfakes.
 *   **Web:** Mantendo a base forte com **JavaScript, HTML e CSS**.
 
