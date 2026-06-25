@@ -1,4 +1,4 @@
-# Oi, eu sou a Jamilly! 👋
+# Oii, eu sou a Jamilly :)
 
 Sou Desenvolvedora e estudante de Sistemas de Informação na UFMT.
 
