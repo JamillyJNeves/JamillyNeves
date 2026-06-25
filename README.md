@@ -2,7 +2,7 @@
 
 Sou Desenvolvedora e estudante de Sistemas de Informação na UFMT.
 
-### O que estou estudando e construindo no momento:
+O que estou estudando no momento:
 
 *   **Mobile:** Criando aplicativos multiplataforma com **Flutter e Dart**.
 *   **Back-end & Dados:** Estruturando lógicas e bancos de dados relacionais com **PHP, Python e SQL**.
@@ -11,7 +11,7 @@ Sou Desenvolvedora e estudante de Sistemas de Informação na UFMT.
 
 ---
 
-###Minha stack principal
+Minha stack principal
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -22,7 +22,7 @@ Sou Desenvolvedora e estudante de Sistemas de Informação na UFMT.
 
 ---
 
-### Como me encontrar
+Como me encontrar
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jamillyj-neves/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nevesjjamilly@gmail.com)
